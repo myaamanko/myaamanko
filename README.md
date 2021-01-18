@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 #### Skills
 
-[![@pina_men](https://img.shields.io/badge/pina_men-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pina_men)
+[![maame.yaa.henaku](https://img.shields.io/badge/maame.yaa.henaku-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/maame.yaa.henaku)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://github.com/Gyekye)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/Gyekye)
 [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Gyekye)
