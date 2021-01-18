@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/myaamanko)
 [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/myaamanko)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/myaamanko)
-[![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://github.com/myaamanko)
+[![Html](https://img.shields.io/badge/Html-E95420?style=for-the-badge&logo=html&logoColor=white)](https://github.com/myaamanko)
